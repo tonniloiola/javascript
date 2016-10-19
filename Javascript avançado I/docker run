@@ -1,1 +1,0 @@
-docker run -it -v "$PWD"/01-aluraframe:/opt/myapp -w /opt/myapp -p "3000:3000" node/ja1 /bin/bash
